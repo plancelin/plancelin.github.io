@@ -5,7 +5,7 @@ _Cette page est en cours de construction !_
 Vous pouvez retrouver ci-dessous les différents projets que j'ai réalisés :
 
 ### Application RShiny :
-Dans le cadre de notre cours de visualisation de données, j'ai réalisé en binôme avec Yolan Peronnet une application Rshiny permettant de visualiser les données issues d'une base de données sur Netflix. Vous pouvez trouver le lien ici : [Link](https://paul-lancelin.shinyapps.io/Netflix/)
+Dans le cadre de notre cours de visualisation de données, j'ai réalisé en binôme avec Yolan Peronnet une application Rshiny permettant de visualiser les données issues d'une base de données sur Netflix. Vous pouvez y accéder en cliquant ici : [Rshiny_Netflix](https://paul-lancelin.shinyapps.io/Netflix/)
 
 
 
