@@ -1,3 +1,15 @@
+
+# Projets
+Vous pouvez retrouver ci-dessous les différents projets que j'ai réalisés :
+
+### Application RShiny :
+Dans le cadre de notre cours de visualisation de données, j'ai réalisé en binôme avec Yolan Peronnet une application Rshiny permettant de visualiser les données issues d'une base de données sur Netflix. Vous pouvez trouver le lien ici : https://paul-lancelin.shinyapps.io/Netflix/
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/plancelin/plancelin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
