@@ -1,4 +1,4 @@
-@import url(fontawesome-all.min.css);
+a@import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
 /*
@@ -646,7 +646,7 @@ input, select, textarea {
 
 		.image:before {
 			pointer-events: none;
-			background-image: url("../../images/blue-landscape.jpg"); 
+			background-image: url("../../images/overlay.png"); 
 			/*Photo by <a href="https://burst.shopify.com/@sakulich?utm_campaign=photo_credit&amp;utm_content=Free+Stock+Photo+of+Blue+Landscape+%E2%80%94+HD+Images&amp;utm_medium=referral&amp;utm_source=credit">Sergei Akulich</a> from <a href="https://burst.shopify.com/mountain?utm_campaign=photo_credit&amp;utm_content=Free+Stock+Photo+of+Blue+Landscape+%E2%80%94+HD+Images&amp;utm_medium=referral&amp;utm_source=credit">Burst</a>*/
 			background-color: rgba(19, 21, 25, 0.5);
 			border-radius: 4px;
@@ -1159,7 +1159,7 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/bg.jpg");
+			background-image: url("../../images/blue-landscape.jpg");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
