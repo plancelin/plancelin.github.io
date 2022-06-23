@@ -1300,7 +1300,7 @@ input, select, textarea {
 			border: solid 1px #ffffff;
 			border-radius: 100%;
 			background-image: url("../../images/Portrait_PaulLancelin-N&b.jpg");
-			background-size: contain;
+			background-size: 10rem;
 		}
 
 			#header .logo .icon:before {
