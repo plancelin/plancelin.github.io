@@ -1294,12 +1294,12 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 5.5rem;
-			height: 5.5rem;
+			width: 10rem;
+			height: 10rem;
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
-			background: url("../../images/Portrait_PaulLancelin-N&b.jpg")
+			background: url("../../images/Portrait_PaulLancelin-N&b.jpg");
 		}
 
 			#header .logo .icon:before {
