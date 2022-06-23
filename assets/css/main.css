@@ -1299,6 +1299,7 @@ input, select, textarea {
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
+			background: url("../../images/Portrait_PaulLancelin-N&b.jpg")
 		}
 
 			#header .logo .icon:before {
